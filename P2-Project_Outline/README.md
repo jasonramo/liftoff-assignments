@@ -7,11 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Overview - An all in one meal prep application that assists in planning daily meals. Users will benefit from additional time from not planning, shopping, and logging calories. The idea came from the exhausting task my wife and I spent several hours per week completing. 
 ### Features
-Include Features here
+Features - upload recipes / webscrape recipes from popular websites, weekly meal plan generator, user pantry, shopping list / budget, calorie uploading, Make-It recipe mode?, more…
 ### Technologies
-Include Technologies here
-
+Technologies - Java, SpringBoot, ThymeLeaf, Bootstrap, APIs
 ### What I'll Have to Learn
-Include what you will need to learn here
+Additional Learning required - there will be several areas that will require additional research and learning.  Currently do not have any knowledge of web scraping, or connecting my program to another API. 
+
+Project Tracker - I am familiar with Trello PM and plan to use it.
