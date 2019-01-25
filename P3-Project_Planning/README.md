@@ -8,13 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* https://github.com/jasonramo/meal-planner/blob/master/src/main/resources/IMG_1618.jpeg
+* https://github.com/jasonramo/meal-planner/blob/master/src/main/resources/IMG_1619.jpeg
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
-
-i am tracking using the git projects on this repo
+https://github.com/jasonramo/liftoff-assignments/projects/1
 
 ### Project Repo Link
 
